@@ -1,0 +1,10 @@
+		ORG I 2
+LOOP:	LD R1,A
+		LD R2,C
+		ADD R3,R1,R2
+		ST R3,S
+		CALL LOOP
+		ORG D 4
+A:		DEC 3
+C:		DEC 5
+S:		DEC 1

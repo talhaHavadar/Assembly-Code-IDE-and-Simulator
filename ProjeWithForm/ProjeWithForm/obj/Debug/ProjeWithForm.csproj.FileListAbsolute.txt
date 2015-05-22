@@ -1,0 +1,34 @@
+c:\users\talha\documents\visual studio 2013\Projects\ProjeWithForm\ProjeWithForm\bin\Debug\ProjeWithForm.exe
+c:\users\talha\documents\visual studio 2013\Projects\ProjeWithForm\ProjeWithForm\bin\Debug\ProjeWithForm.pdb
+c:\users\talha\documents\visual studio 2013\Projects\ProjeWithForm\ProjeWithForm\obj\Debug\ProjeWithForm.csprojResolveAssemblyReference.cache
+c:\users\talha\documents\visual studio 2013\Projects\ProjeWithForm\ProjeWithForm\obj\Debug\ProjeWithForm.MainForm.resources
+c:\users\talha\documents\visual studio 2013\Projects\ProjeWithForm\ProjeWithForm\obj\Debug\ProjeWithForm.Properties.Resources.resources
+c:\users\talha\documents\visual studio 2013\Projects\ProjeWithForm\ProjeWithForm\obj\Debug\ProjeWithForm.csproj.GenerateResource.Cache
+c:\users\talha\documents\visual studio 2013\Projects\ProjeWithForm\ProjeWithForm\obj\Debug\ProjeWithForm.exe
+c:\users\talha\documents\visual studio 2013\Projects\ProjeWithForm\ProjeWithForm\obj\Debug\ProjeWithForm.pdb
+C:\Users\talha\documents\visual studio 2013\Projects\ProjeWithForm\ProjeWithForm\bin\Debug\BorderedTextBox.dll
+C:\Users\talha\documents\visual studio 2013\Projects\ProjeWithForm\ProjeWithForm\bin\Debug\BorderedTextBox.pdb
+C:\Users\talha\Documents\GitHub\Assembly-Code-IDE-and-Simulator\ProjeWithForm\ProjeWithForm\obj\Debug\ProjeWithForm.exe
+C:\Users\talha\Documents\GitHub\Assembly-Code-IDE-and-Simulator\ProjeWithForm\ProjeWithForm\obj\Debug\ProjeWithForm.pdb
+C:\Users\talha\Documents\GitHub\Assembly-Code-IDE-and-Simulator\ProjeWithForm\ProjeWithForm\bin\Debug\ProjeWithForm.exe
+C:\Users\talha\Documents\GitHub\Assembly-Code-IDE-and-Simulator\ProjeWithForm\ProjeWithForm\bin\Debug\ProjeWithForm.pdb
+C:\Users\talha\Documents\GitHub\Assembly-Code-IDE-and-Simulator\ProjeWithForm\ProjeWithForm\bin\Debug\BorderedTextBox.pdb
+C:\Users\talha\Documents\GitHub\Assembly-Code-IDE-and-Simulator\ProjeWithForm\ProjeWithForm\obj\Debug\ProjeWithForm.csprojResolveAssemblyReference.cache
+C:\Users\talha\Documents\GitHub\Assembly-Code-IDE-and-Simulator\ProjeWithForm\ProjeWithForm\obj\Debug\ProjeWithForm.MainForm.resources
+C:\Users\talha\Documents\GitHub\Assembly-Code-IDE-and-Simulator\ProjeWithForm\ProjeWithForm\obj\Debug\ProjeWithForm.Properties.Resources.resources
+C:\Users\talha\Documents\GitHub\Assembly-Code-IDE-and-Simulator\ProjeWithForm\ProjeWithForm\obj\Debug\ProjeWithForm.csproj.GenerateResource.Cache
+C:\Users\talha\Documents\Yeni klasör\ProjeWithForm\ProjeWithForm\obj\Debug\ProjeWithForm.exe
+C:\Users\talha\Documents\Yeni klasör\ProjeWithForm\ProjeWithForm\obj\Debug\ProjeWithForm.pdb
+C:\Users\talha\Documents\Yeni klasör\ProjeWithForm\ProjeWithForm\bin\Debug\ProjeWithForm.exe
+C:\Users\talha\Documents\Yeni klasör\ProjeWithForm\ProjeWithForm\bin\Debug\ProjeWithForm.pdb
+C:\Users\talha\Documents\Yeni klasör\ProjeWithForm\ProjeWithForm\bin\Debug\BorderedTextBox.pdb
+C:\Users\talha\Documents\Yeni klasör\ProjeWithForm\ProjeWithForm\obj\Debug\ProjeWithForm.csprojResolveAssemblyReference.cache
+C:\Users\talha\Documents\Yeni klasör\ProjeWithForm\ProjeWithForm\obj\Debug\ProjeWithForm.MainForm.resources
+C:\Users\talha\Documents\Yeni klasör\ProjeWithForm\ProjeWithForm\obj\Debug\ProjeWithForm.Properties.Resources.resources
+C:\Users\talha\Documents\Yeni klasör\ProjeWithForm\ProjeWithForm\obj\Debug\ProjeWithForm.csproj.GenerateResource.Cache
+C:\Users\talha\Documents\Yeni klasör\ProjeWithForm\ProjeWithForm\bin\Debug\ScintillaNET.dll
+C:\Users\talha\Documents\Yeni klasör\ProjeWithForm\ProjeWithForm\bin\Debug\ScintillaNET.xml
+C:\Users\talha\Documents\Yeni klasör\ProjeWithForm\ProjeWithForm\bin\Debug\ProjeWithForm.exe.config
+C:\Users\talha\Documents\Yeni klasör\ProjeWithForm\ProjeWithForm\obj\Debug\ProjeWithForm.FrmEditAss.resources
+C:\Users\talha\Documents\Yeni klasör\ProjeWithForm\ProjeWithForm\obj\Debug\ProjeWithForm.FrmInfo.resources
+C:\Users\talha\Documents\Yeni klasör\ProjeWithForm\ProjeWithForm\obj\Debug\ProjeWithForm.FrmGuide.resources
